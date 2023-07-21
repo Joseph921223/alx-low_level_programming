@@ -1,1 +1,1 @@
-0x04. C - More functions, more nested loo
+0x04. C - More functions, more nested loop
