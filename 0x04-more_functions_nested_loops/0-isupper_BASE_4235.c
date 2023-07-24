@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-#include "main.h"
-
-/**
-=======
-  /**
->>>>>>> 27af6a03880b48dae7fbc928bb01cea50b7b9030
+Lunamandla Bobe says:/**
   * _isupper - Check if a letter is upper
   * @x: The number to be checked
   *
